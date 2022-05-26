@@ -4,6 +4,7 @@ public  class helloworld {
         System.out.println("hello world java core");
         system.out.println("hi java girlfriend i love you");
         System.out.println("this is my java program");
+        System.out.printl("hi supriya iam like you");
         
     }
     
